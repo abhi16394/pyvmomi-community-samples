@@ -42,4 +42,3 @@ Please conform to pep8 standards. Check your code by running the pep8 tool.
   * please use one commit and pull request per sample
   * if you include a license with your sample, use the project license
   
-  #testing the webhook
